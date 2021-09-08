@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/comming-soon-htmlcss-and-js-k2afOFixj)
--   Live Site URL: [Add live site URL here](https://sad-mcnulty-6670de.netlify.app/)
+-   Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/comming-soon-htmlcss-and-js-k2afOFixj)
+-   Live Site URL: [Solution working](https://sad-mcnulty-6670de.netlify.app/)
 
 ### Built with
 

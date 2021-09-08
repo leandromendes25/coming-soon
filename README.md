@@ -10,9 +10,6 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
     -   [Links](#links)
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
--   [Author](#author)
--   [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 This project was build based on a challenge from frontend mentor with the purpose of learning more about frontend
@@ -33,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub/comming-soon-htmlcss-and-js-k2afOFixj)
+-   Live Site URL: [Add live site URL here](https://sad-mcnulty-6670de.netlify.app/)
 
 ### Built with
 
@@ -65,17 +62,3 @@ document.querySelector(".btn").addEventListener("click", () => {
     }
 });
 ```
-
-## Author
-
--   Website - [Net](https://www.your-site.com)
--   Frontend Mentor - [@leandromendes25](https://www.frontendmentor.io/profile/leandromendes25)
--   Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
